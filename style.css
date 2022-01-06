@@ -19,12 +19,15 @@ body{
 }
 .first_div .first_heading{
     border-left:7px solid rgb(37, 58, 7);
-    padding-left:15px;
-    font-size:50px;
+    padding-left:2px;
     line-height: 15px;
-
+    font-size:50px;
+    text-align: start;
+}
+.first_heading h1{
     
 }
+
 .heding_color{
     Color:rgb(8, 122, 56);
 }
@@ -111,7 +114,24 @@ body{
 }
 .third_section 
 .fourth_section{
-
+    display: flex;
+    margin-left:150px;
+    margin-right:150px;
+    height:550px;
+    margin-top:100px;
+}
+.developer{
+    width:40%;
+    margin-left:5%;
+    margin-right: 5%;
+}
+.image_four{
+    width:40%;
+    margin-left:5%;
+    margin-right: 5%;
+}
+.image_four img{
+    widht:100%;
 }
 .fifth_section{
 
